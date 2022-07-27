@@ -25,8 +25,8 @@
 <br>
   
 <a href="https://github.com/sadanandpai/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0128&theme=radical&hide=javascript,css,c,html,php,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu0128&theme=vue&hide=javascript,css,c,html,php,python" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0128&show_icons=true&theme=radical&line_height=27&count_private=true" alt="himanshu's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0128&show_icons=true&theme=vue&layout=compact&count_private=true&hide=contribs,stars" alt="himanshu's github stats" />
 </a>
