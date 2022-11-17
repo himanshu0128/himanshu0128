@@ -7,7 +7,7 @@
   <br><br>
 </div>
 
-- 👨‍💻 I am a Full stack developer with Bachelors degree in computer science. I build websites, native apps for iOS and Android, write APIs, manage databases and most importantly, never leave my clients hanging. Being a young and curious developer, I am always working on cutting-edge technologies and constantly innovating and learning new stuff.
+- 👨‍💻 I am a Full stack developer with a Bachelors degree in computer science. I build websites, native apps for iOS and Android, write APIs, manage databases and most importantly, never leave my clients hanging. Being a young and curious developer, I am always working on cutting-edge technologies and constantly innovating and learning new stuff.
 
 - 📫 The best way to connect with me is over [Linkedin](https://linkedin.com/in/himanshu0128). You can also send me an email at himanshu0128gupta@gmail.com.
 
