@@ -11,6 +11,6 @@
 ⚡ To read my blog post, checkout my [Portfolio](https://www.himanshugupta.dev/)
 <br>
 
-![Himanshu's GitHub stats](https://github-stats-extended.vercel.app/api?username=himanshu0128&hide_rank=true&hide_title=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm_pink)
+![Himanshu's GitHub stats](https://github-stats-extended.vercel.app/api?username=himanshu0128&hide_rank=true&hide_title=true&show=reviews%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=calm_pink&disable_animations=true)
 
 </div>
